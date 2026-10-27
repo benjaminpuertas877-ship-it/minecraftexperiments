@@ -1,5 +1,5 @@
-#ifndef TCPE_TREE_VARIANTS_H
-#define TCPE_TREE_VARIANTS_H
+#ifndef NET_MINECRAFT_WORLD_LEVEL_LEVELGEN_FEATURE__TreeVariants_H__
+#define NET_MINECRAFT_WORLD_LEVEL_LEVELGEN_FEATURE__TreeVariants_H__
 #include "BasicTree.h"
 #include "TreeFeature.h"
 
